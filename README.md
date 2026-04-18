@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Santiago / unProgramador ✨ </h1> 
+<h1 align="center">Hola 👋  soy Santiago / un Programador y Estudiante ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=12" /></a>
@@ -43,3 +43,10 @@ Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo dife
 
 </p>        
 <!--- stats (end) -->
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad</b></i></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-elias-bravo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=santiago-elias-bravo&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+<hr>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile 
