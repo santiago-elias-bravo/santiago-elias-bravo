@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="discord"/></a>
-<a href="https://discordapp.com/users/1002947437721292892" target="blank"><img src="https://rl4aa.github.io/imgs/discord_logo.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 90px; width: 70px; height: 20px; margin: 10px 0px;" alt="The RL4AA Discord server is up! | RL4AA Collaboration | Homepage" jsname="kn3ccd"></a>
+<a href="https://discordapp.com/users/1002947437721292892" target="blank"><img src="https://rl4aa.github.io/imgs/discord_logo.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 100px; width: 70px; height: 20px; margin: auto;" alt="The RL4AA Discord server is up! | RL4AA Collaboration | Homepage" jsname="kn3ccd"></a>
 <a href = "mailto:santiagoeliasbravo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@santiagoeliasbravo"  /></a>
   </p>
 <br>
@@ -26,7 +26,10 @@ Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo dife
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,uml,css,html,js,mysql,git,github,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,codepen,vscode,ps&perline=12" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="Unified Modelling                     Language (UML) icon" height="50" width="50">
   </a>
 </p>
 <br>
