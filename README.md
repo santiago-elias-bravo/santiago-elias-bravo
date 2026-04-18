@@ -1,9 +1,11 @@
 <h1 align="center">Hola 👋  soy Santiago / unProgramador ✨ </h1> 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="discord"/></a>
-<a href="https://discordapp.com/users/1002947437721292892" target="blank"><img src="https://rl4aa.github.io/imgs/discord_logo.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 100px; width: 70px; height: 20px; margin: auto;" alt="The RL4AA Discord server is up! | RL4AA Collaboration | Homepage" jsname="kn3ccd"></a>
-<a href = "mailto:santiagoeliasbravo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@santiagoeliasbravo"  /></a>
+<a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=12" /></a>
+<a href="https://discordapp.com/users/1002947437721292892" target="blank">
+   <img src="https://skillicons.dev/icons?i=discord&perline=12" />
+</a>
+<a href = "mailto:santiagoeliasbravo@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail&perline=12" /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
