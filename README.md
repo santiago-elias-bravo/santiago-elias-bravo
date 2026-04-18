@@ -30,9 +30,13 @@ Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo dife
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,codepen,vscode,ps&perline=12" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg" alt="Unified Modelling                     Language (UML) icon" height="50" width="50">
-  </a>
+  <a href="https://skillicons.dev" style="display: inline-flex; align-items: center;">
+  <img src="https://icon.icepanel.io/Technology/svg/Unified-Modelling-Language-%28UML%29.svg"
+       alt="UML icon" height="50" width="50">
+
+  <img src="https://avatars.githubusercontent.com/u/16782098?s=200&v=4"
+       alt="wollok logo" height="40" style="margin-left:10px;">
+</a>
 </p>
 <br>
 
