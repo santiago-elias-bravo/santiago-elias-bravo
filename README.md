@@ -26,7 +26,7 @@ Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo dife
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,mysql,git,github,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,uml,css,html,js,mysql,git,github,vscode,ps&perline=12" />
   </a>
 </p>
 <br>
