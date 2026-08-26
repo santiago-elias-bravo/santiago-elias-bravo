@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Santiago / un Programador y Estudiante ✨ </h1> 
+<h1 align="center">Hi 👋 I'm Santiago — a Programmer & Computer Science Student ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=12" /></a>
@@ -8,23 +8,25 @@
 <a href = "mailto:santiagoeliasbravo@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail&perline=12" /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
 <!--Intro start-->
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <p align="left">
-🎓 Estudiante Licenciatura en Informática
+🎓 Master of Science in Computer Science Student
 
-💻 Hola, soy Santiago Elias Bravo.
-Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo diferentes lenguajes y conceptos fundamentales del desarrollo de software. Actualmente aplico tecnologías como Python, Java, HTML, CSS, JavaScript y MySQL. Me interesa seguir creciendo, explorar nuevas tecnologías y participar en proyectos que me permitan mejorar día a día como persona y como profesional.
-🚀 Me interesa seguir ampliando mis conocimientos tanto en frontend como en backend. Estoy enfocado en mejorar mis habilidades a través de la práctica, creando proyectos y enfrentando nuevos desafíos.
-📚 Siempre estoy en constante aprendizaje y buscando oportunidades para crecer como desarrollador.
+💻 Hi, I'm Santiago Elias Bravo.
+I'm taking my first steps into the world of programming, learning different languages and the fundamental concepts of software development. I currently work with technologies such as Python, Java, HTML, CSS, JavaScript, and MySQL. I'm interested in continuing to grow, exploring new technologies, and working on projects that allow me to improve every day, both personally and professionally.
 
-📫 Contacto: **santiagoeliasbravo@gmail.com**
+🚀 I'm passionate about expanding my knowledge in both frontend and backend development. I'm focused on strengthening my skills through hands-on practice, building projects, and taking on new challenges.
+
+📚 I'm always learning and looking for opportunities to grow as a developer, gain new experiences, and continue developing my technical and professional skills.
+
+📫 Contact: **santiagoeliasbravo@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >👨🏻‍💻 Technologies & Tools</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -41,20 +43,7 @@ Estoy dando mis primeros pasos en el mundo de la programación, aprendiendo dife
 <br>
 
 
-</p>        
-<!--- stats (end) -->
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Actividad</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiago-elias-bravo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=santiago-elias-bravo&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-<hr>
-<p align="center">
-<h3 align="left"></h3>
-
-![Gráfico](https://github-readme-activity-graph.vercel.app/graph?username=santiago-elias-bravo&custom_title=Santiago's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left"></h3>
+</p>     
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
