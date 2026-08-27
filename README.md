@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋 I'm Santiago — a Programmer & Computer Science Student ✨ </h1> 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin&perline=12" /></a>
-<a href="https://discordapp.com/users/1002947437721292892" target="blank">
-   <img src="https://skillicons.dev/icons?i=discord&perline=12" />
-</a>
-<a href = "mailto:santiagoeliasbravo@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail&perline=12" /></a>
-  </p>
+<p align="center"> <a href="https://www.linkedin.com/in/santiago-el%C3%ADas-bravo-701808351/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://discordapp.com/users/1002947437721292892" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> &nbsp; <a href="mailto:santiagoeliasbravo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> &nbsp; <a href="https://santiago-elias-bravo.github.io/cvtecnico/" target="_blank"> <img src="https://img.shields.io/badge/📄%20Resume-View%20Online-222222?style=for-the-badge" alt="Resume"/> </a> </p>
 <br>
 <h2>About me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
 <!--Intro start-->
